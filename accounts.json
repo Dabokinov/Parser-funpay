@@ -1,0 +1,18 @@
+{
+  "accounts": [
+    {
+      "login": "user1",
+      "password": "password1",
+      "game": "Counter-Strike 2",
+      "available": true,
+      "rent_end": "2024-12-01T12:00:00Z"
+    },
+    {
+      "login": "user2",
+      "password": "password2",
+      "game": "Dota 2",
+      "available": false,
+      "rent_end": "2024-12-02T15:00:00Z"
+    }
+  ]
+}
